@@ -1,2 +1,2 @@
 # React-Portfolio
-My React version of my portfolio
+The React version of my portfolio
