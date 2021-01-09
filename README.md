@@ -9,18 +9,16 @@
  
   ## Access and Links
    
-   The `REACT PORTFOLIO` is deployed to GitHub pages, [click here view it.](https://hjlogique.github.io/React-Portfolio/) 
+   My REACT PORTFOLIO is deployed to GitHub pages, [click here view it.](https://hjlogique.github.io/React-Portfolio/) 
    
    Here are other links:
 
    [My recent resume](public/docs/henrylogique_resume.pdf)
     <br/><br/>
-   [My LinkedIn profile](https://www.linkedin.com/in/henry-jean-logique-b63707b3/)
+   [My Linkedin profile](https://www.linkedin.com/in/henry-jean-logique-b63707b3/)
 
 
   ## Questions
-  
-  [Link to my GitHub profile](https://github.com/hjlogique)
 
   If you have any questions, please contact me via email:
   
