@@ -1,0 +1,336 @@
+{
+  "main": {
+    "name": "HENRY JEAN LOGIQUE",
+    "description": "I'm a Web/Multimedia Developer & E-Learning Application Programmer from Maryland, USA. I aim to make a difference through my technical and artistic creativity, and by providing solutions",
+    "image": "profilepic.jpg",
+    "bio": "I am a Web/Multimedia Developer & E-Learning Application Programmer, working as a contractor. My work experience is in web development, application programming, multimedia, graphic design and software quality assurance. My academic backgrounds are Master of Art in Visual Effects, Master of Science in Biomedical Engineering, bachelor of science in Physics, and associate degree in Machine Design. I have certificates in Web Design and application Programming, and studied Game programming for two semesters. I am currently studying Full Stack Web Development at GW Code Boot Camp. My interests include Web technologies, 3d graphics programming, Virtual and Augmented Reality, Simulation and Artificial Intelligence. I am always eager to learn new technologies and finding solutions.",
+    "contactmessage": "Here is my contact information.",
+    "email": "hjlogique@yahoo.com",
+    "phone": "818-245-2434",
+    "github": "https://github.com/hjlogique",
+    "project": "",
+    "address": {
+      "street": "",
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": "20816"
+    },
+    "website": "http://logiscificode.com",
+    "resumedownload": "docs/henrylogique_resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/henry-jean-logique-b63707b3",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/hjlogique",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "The George Washington University (GW) Coding Boot Camp",
+        "degree": "Full-Stack Web Development Certificate",
+        "graduated": "2020 - 2021 (completed)",
+        "description": "Washington, DC - USA"
+      },
+      {
+        "school": "The Art Institute of California – Los Angeles (AI)",
+        "degree": "Bachelor of Science in Game Programming",
+        "graduated": "2015 (two quarters)",
+        "description": "Los Angeles, CA - USA"
+      },
+      {
+        "school": "University of California, Los Angeles (UCLA)",
+        "degree": "Application Programming and Advanced Web Certificates",
+        "graduated": "2011 - 2014 (completed)",
+        "description": "Los Angeles, CA - USA"
+      },
+      {
+        "school": "Savannah College of Art and Design (SCAD)",
+        "degree": "Master of Arts in Visual Effects",
+        "graduated": "2004 - 2006 (completed)",
+        "description": "Savannah, GA - USA"
+      },
+      {
+        "school": "Montgomery College (MC)",
+        "degree": "Web Specialist Certificate",
+        "graduated": "2000 - 2003 (completed)",
+        "description": "Germantown and Rockville - USA"
+      },
+      {
+        "school": "The George Washington University (GW)",
+        "degree": "Master of Science in Medical Engineering",
+        "graduated": "1995 - 1996 (completed)",
+        "description": "Washington, DC - USA"
+      },
+      {
+        "school": "Technical University of Berlin (TU Berlin)",
+        "degree": "Mechanical Engineering: Machine Design Certificate",
+        "graduated": "1992 - 1994 (three semesters)",
+        "description": "Berlin - Germany"
+      },
+      {
+        "school": "Middle East Technical University (METU)",
+        "degree": "Bachelor of Science in Applied Physics",
+        "graduated": "1984 - 1989 (completed)",
+        "description": "Ankara - Turkey"
+      }
+    ],
+    "work": [
+      {
+        "company": "ManTech International Corporation",
+        "title": "Web/Multimedia Developer & E-Learning Application Programmer",
+        "years": "2016 - Present",
+        "description": "Fairfax, Herndon, VA - USA"
+      },
+      {
+        "company": "Independent Consultant and part time student",
+        "title": "Web/Multimedia Designer",
+        "years": "2014 to 2016",
+        "description": "Los Angeles, CA - USA"
+      },
+      {
+        "company": "Robert Half Consultant at XAP Corp.",
+        "title": "Software Quality Assurance Tester",
+        "years": "2014",
+        "description": "Fairfax, Herndon, VA - USA"
+      },
+      {
+        "company": "Independent Consultant and part time student",
+        "title": "Web/Multimedia Designer",
+        "years": "2013 - 2014",
+        "description": "Los Angeles, CA - USA"
+      },
+      {
+        "company": "CallSource",
+        "title": "E-Learning Developer",
+        "years": "2008 - 2013",
+        "description": "Westlake Village, CA - USA"
+      },
+      {
+        "company": "Lotus Interworks & Panache Tech",
+        "title": "Web/Multimedia Designer",
+        "years": "2007 - 2008",
+        "description": "Los Angeles, CA - USA"
+      },
+      {
+        "company": "Global Link Solutions, Inc",
+        "title": "Software Quality Assurance Engineer",
+        "years": "2003 - 2004",
+        "description": "Sterling, VA - USA"
+      },
+      {
+        "company": "Hughes Network Systems",
+        "title": "Software Quality Assurance Engineer",
+        "years": "2000 - 2003",
+        "description": "Germantown, MD - USA"
+      },
+      {
+        "company": "STEP9 Software Corp. & DMR Consultant at AT&T",
+        "title": "Software Quality Assurance Engineer",
+        "years": "1999 - 2000",
+        "description": "Fairfax & Herndon VA - USA"
+      },
+      {
+        "company": "Medical Numerics Consultant at National Institute of Health (NIH)",
+        "title": "Software Specialist Engineer ",
+        "years": "1998 - 1999",
+        "description": "Bethesda, MD - USA"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "jQuery",
+        "level": "50%"
+      },
+      {
+        "name": "Node.js & NPM Packages",
+        "level": "60%"
+      },
+      {
+        "name": "Express.js",
+        "level": "60%"
+      },
+      {
+        "name": "API",
+        "level": "50%"
+      },
+      {
+        "name": "AJAX",
+        "level": "60%"
+      },
+      {
+        "name": "Sequelize",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "GitHub",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "40%"
+      },
+      {
+        "name": "Flash ActionScript (AS3)",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "C#",
+        "level": "50%"
+      },
+      {
+        "name": "Visual Studio Code",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "50%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "40%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Captivate",
+        "level": "80%"
+      },
+      {
+        "name": "Lectora Inspire",
+        "level": "80%"
+      },
+      {
+        "name": "Articulate",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Dreamweaver",
+        "level": "70%"
+      },
+      {
+        "name": "Unity",
+        "level": "60%"
+      },
+      {
+        "name": "AutoDesk Maya",
+        "level": "50%"
+      },
+      {
+        "name": "Adobe After Effects",
+        "level": "50%"
+      },
+      {
+        "name": "Adobe Premiere Pro",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe Animate",
+        "level": "50%"
+      },
+      {
+        "name": "Adobe Audition",
+        "level": "50%"
+      },
+      {
+        "name": "Jira",
+        "level": "70%"
+      },
+      {
+        "name": "Jest",
+        "level": "50%"
+      },
+      {
+        "name": "Selenium",
+        "level": "40%"
+      },
+      {
+        "name": "SharePoint",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "React Employee Directory",
+        "category": "This React app allows users to view the entire employee directory at once to have quick access to employee's non-sensitive information.",
+        "image": "employee_directory.jpg",
+        "url": "https://hjlogique.github.io/Employee-Directory/",
+        "github": "https://github.com/hjlogique/Employee-Directory"
+      },
+      {
+        "title": "Covid-19 Tracking App - Group Project",
+        "category": "This application allows members to access updated statistics about the COVID-19 virus in their states as well as other states.",
+        "image": "covid19_app.jpg",
+        "url": "https://project2gwu.herokuapp.com",
+        "github": "https://github.com/hjlogique/Project-2"
+      },
+      {
+        "title": "Software Engineering Team Generator",
+        "category": "This Node CLI application generates a nicely formatted team roster based on the information provided by the user.",
+        "image": "team_generator.jpg",
+        "url": "https://hjlogique.github.io/Software-Engineering-Team-Generator/output/team.html",
+        "github": "https://github.com/hjlogique/Software-Engineering-Team-Generator"
+      },
+      {
+        "title": "Valshop - Group Project ",
+        "category": "This application displays features and prices of different product types from different resources in one location. It also displays the weather condtion.",
+        "image": "valshop.jpg",
+        "url": "https://tpenick.github.io/Project_1_Group/",
+        "github": "https://github.com/tpenick/Project_1_Group"
+      },
+      {
+        "title": "Weather Dashboard - Server-Side APIs",
+        "category": "This application displays the current weather information and the weather forecast for the next five days for any city in the world.",
+        "image": "weather_dashboard.jpg",
+        "url": "https://hjlogique.github.io/Weather-Dashboard/",
+        "github": "https://github.com/hjlogique/Weather-Dashboard"
+      },
+      {
+        "title": "Work Day Scheduler - Third-Party API",
+        "category": "This is a simple daily planner application which saves users' daily schedules between 7AM and 7PM.",
+        "image": "work_day_scheduler.jpg",
+        "url": "https://hjlogique.github.io/Work-Day-Scheduler/",
+        "github": "https://github.com/hjlogique/Work-Day-Scheduler"
+      }
+    ]
+  }
+}
