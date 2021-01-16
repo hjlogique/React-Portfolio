@@ -290,6 +290,13 @@
   "portfolio": {
     "projects": [
       {
+        "title": "React Google Books Search",
+        "category": "'This React app allows users search for books and view them in a list. Users can save books to a list, to review or purchase later. ",
+        "image": "react_google_books.jpg",
+        "url": "https://desolate-sierra-68513.herokuapp.com",
+        "github": "https://github.com/hjlogique/Google-Books-React-Search"
+      },
+      {
         "title": "React Employee Directory",
         "category": "This React app allows users to view the entire employee directory at once to have quick access to employee's non-sensitive information.",
         "image": "employee_directory.jpg",
